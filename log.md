@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 1: January 29, 2018 
-##### 
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
@@ -10,14 +9,13 @@
 **Link to work:** FreeCodeCamp Work (https://www.freecodecamp.org/challenges/create-a-set-of-checkboxes)
 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 30, 2018 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on Accessibility lessons for Codecademy, Finished FreeCodeCamp HTML/CSS section, finished Codecademy assignment for Users
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: There are some things I never thought of in regards to accessibility but this UI/UX class through Codecademy has opened my eyes to things like the Web Content Accessibility Guide (which I will be taking a look at)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers
 
 
 ### Day 1: June 27, Monday
