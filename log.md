@@ -18,11 +18,11 @@
 **Link(s) to work**: https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers
 
 
-### Day 1: June 27, Monday
+### Day 1: January 31, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I did a lot more work on FreeCodeCamp, started Bootstrap today
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
