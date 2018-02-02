@@ -18,12 +18,22 @@
 **Link(s) to work**: https://www.freecodecamp.org/challenges/use-responsive-design-with-bootstrap-fluid-containers
 
 
-### Day 1: January 31, 2018
+### Day 3: January 31, 2018
 
 **Today's Progress**: I did a lot more work on FreeCodeCamp, started Bootstrap today
 
 **Thoughts** 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. https://www.freecodecamp.org/challenges/create-a-bootstrap-button
+
+
+### Day 4: February 1, 2018
+
+**Today's Progress**: I did some work on FreeCodeCamp but I also did some UX/UI course on Codecademy
+
+**Thoughts** I feel like if I'm going to work on Bootstrap I really need to buckle down or download an eBook so I can make sense of it. It's such an important thing, I need to dedicate a lot of time to it.
+
+**Link(s) to work**
+1. https://www.freecodecamp.org/challenges/create-a-bootstrap-button
+2. https://www.codecademy.com/programs/486a08f35066c980b1c1b4529f1dd67f/items/704cf897a94e74ce46f41612c8086d66
