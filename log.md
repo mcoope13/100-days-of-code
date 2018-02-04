@@ -37,3 +37,21 @@
 **Link(s) to work**
 1. https://www.freecodecamp.org/challenges/create-a-bootstrap-button
 2. https://www.codecademy.com/programs/486a08f35066c980b1c1b4529f1dd67f/items/704cf897a94e74ce46f41612c8086d66
+
+### Day 5: February 3, 2018
+
+**Today's Progress**: I did some UX/UI course on Codecademy. I also did some Javascript work on Udacity.
+
+**Thoughts** I feel like if I'm going to work on Bootstrap I really need to buckle down or download an eBook so I can make sense of it. It's such an important thing, I need to dedicate a lot of time to it.
+
+**Link(s) to work**
+1. https://www.codecademy.com/programs/486a08f35066c980b1c1b4529f1dd67f/items/b128f7ced18957f554a0de8e18e9d0a4
+
+### Day 5: February 4, 2018
+
+**Today's Progress**: I did some Javascript work on Udacity.
+
+**Thoughts** I feel like if I'm going to work on Bootstrap I really need to buckle down or download an eBook so I can make sense of it. It's such an important thing, I need to dedicate a lot of time to it.
+
+**Link(s) to work**
+1. https://classroom.udacity.com/courses/ud304-gwg/lessons/3ace947b-b5f6-40c1-bc11-3ec98fd1d936/concepts/b651694a-cfda-4965-be84-279387f32c44
